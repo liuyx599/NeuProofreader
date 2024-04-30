@@ -5,6 +5,10 @@ NeuProofreader: An Interactive Proofreading System with Algorithmic Prompts for 
 # Release status
 All the source code and packaged executable files are currently being organized. Please be patient while we complete this process. 
 
+## 2024-4-30
+update the backend server [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/NeuroglancerJsonServer-packup)
+
+
 # References
 ```
 @inproceedings{chen2024learning,
