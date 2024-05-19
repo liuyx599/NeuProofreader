@@ -1,4 +1,4 @@
-# NeuProofreader
+# NeuProofreader(ICME DEMO TRACK 2024)
 NeuProofreader: An Interactive Proofreading System with Algorithmic Prompts for Connectomics
 
 
