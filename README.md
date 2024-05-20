@@ -6,7 +6,7 @@ NeuProofreader: An Interactive Proofreading System with Algorithmic Prompts for 
 All source code and packaged executables are currently being reorganized. Please be patient while we complete this process. 
 
 ## 2024-4-30
-update the backend server [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/NeuroglancerJsonServer-packup)
+update the status saving module [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/NeuroglancerJsonServer-packup)
 
 
 # References
