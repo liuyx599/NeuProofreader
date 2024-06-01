@@ -10,7 +10,7 @@ The client and server are packaged executables, unzip them and run `.exe` direct
 The server side is the proofreading status server, whose repository is: the status saving module [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/NeuroglancerJsonServer-packup)
 
 # Key Shortcuts 
-| Keyboard shortcuts | Functionalities                                              |
+|   | Functionalities                                              |
 |--------------------|-------------------------------------------------------------|
 | Tab                | Display algorithmic prompt messages.                        |
 | ~                  | Display candidate fragments exceed a threshold merge score.  |
