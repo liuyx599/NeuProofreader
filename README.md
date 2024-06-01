@@ -1,18 +1,15 @@
 # NeuProofreader( ICME DEMO TRACK 2024)
-NeuProofreader: An Interactive Proofreading System with Algorithmic Prompts for Connectomics
+NeuProofreader: An Interactive Proofreading System with Suggesstive Prompts for Connectomics
 
 
 # Release status
 the Client and Server: 
-BaiDuYun Link： [https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb](https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb)
-
-Code：divb
+BaiDuYun Link： [https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb](https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb)   Code：divb
 
 The client and server are packaged executables, unzip them and run `.exe` directly.
-The server side is the proofreading status server, whose repository is: the status saving module [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/) NeuroglancerJsonServer-packup)
+The server side is the proofreading status server, whose repository is: the status saving module [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/NeuroglancerJsonServer-packup)
 
-
-Key shortcuts for NeuProofreader
+Key shortcuts for NeuProofreader:
 | Keyboard shortcuts | Functionalities                                              |
 |--------------------|-------------------------------------------------------------|
 | Tab                | Display algorithmic prompt messages.                        |
@@ -32,6 +29,13 @@ Key shortcuts for NeuProofreader
 
 # References
 ```
+@inproceedings{chen2024learning,
+      title={NeuProofreader: An Interactive Proofreading System with Suggesstive Prompts for Connectomics}, 
+      author={Yixiong Liu, Qihua Chen, Xuejin Chen},
+      year={2024},
+      booktitle={2024 IEEE International Conference on Multimedia and Expo Workshops},
+}
+
 @inproceedings{chen2024learning,
       title={Learning Multimodal Volumetric Features for Large-Scale Neuron Tracing}, 
       author={Qihua Chen and Xuejin Chen and Chenxuan Wang and Yixiong Liu and Zhiwei Xiong and Feng Wu},
