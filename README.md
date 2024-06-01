@@ -3,10 +3,30 @@ NeuProofreader: An Interactive Proofreading System with Algorithmic Prompts for 
 
 
 # Release status
-All source code and packaged executables are currently being reorganized. Please be patient while we complete this process. 
+the Client and Server: 
+BaiDuYun Link： [[https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb)]
+Code：divb
 
-## 2024-4-30
-update the status saving module [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/NeuroglancerJsonServer-packup)
+
+The client and server are packaged executables, unzip them and run `.exe` directly.
+The server side is the proofreading status server, whose repository is: the status saving module [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/) NeuroglancerJsonServer-packup)
+
+Key shortcuts for NeuProofreader
+| Keyboard shortcuts | Functionalities                                              |
+|--------------------|-------------------------------------------------------------|
+| Tab                | Display algorithmic prompt messages.                        |
+| ~                  | Display candidate fragments exceed a threshold merge score.  |
+| J                  | Jump to the truncation point between a candidate and the selected segment.  |
+| Q                  | Jump to the truncation point between a candidate fragment in the query box. |
+| M                  | Merge individual fragments.                                 |
+| C                  | Split individual fragments.                                 |
+| T                  | Keep the candidate displayed with the highest merge score.  |
+| Ctrl+T             | Directly displaying the top 5 candidates with the highest merge scores. |
+| Ctrl+M             | Merge all the displayed fragments.                          |
+| Ctrl+C             | Split all the displayed fragments.                          |
+| Shift+C            | Bulk splitting a collection of fragments from a specific neuron. |
+| Shift+S            | Toggle the colors for pre- and post-merging rendering.      |
+| Backspace          | Clean algorithmic prompt messages.                          |
 
 
 # References
