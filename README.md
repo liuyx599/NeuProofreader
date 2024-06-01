@@ -29,7 +29,7 @@ The server side is the proofreading status server, whose repository is: the stat
 
 # References
 ```
-@inproceedings{chen2024learning,
+@inproceedings{liu2024Neuproofreader,
       title={NeuProofreader: An Interactive Proofreading System with Suggesstive Prompts for Connectomics}, 
       author={Yixiong Liu, Qihua Chen, Xuejin Chen},
       year={2024},
