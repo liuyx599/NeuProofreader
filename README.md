@@ -4,12 +4,13 @@ NeuProofreader: An Interactive Proofreading System with Algorithmic Prompts for 
 
 # Release status
 the Client and Server: 
-BaiDuYun Link： [[https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb)]
-Code：divb
+BaiDuYun Link： [https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb](https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb)
 
+Code：divb
 
 The client and server are packaged executables, unzip them and run `.exe` directly.
 The server side is the proofreading status server, whose repository is: the status saving module [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/) NeuroglancerJsonServer-packup)
+
 
 Key shortcuts for NeuProofreader
 | Keyboard shortcuts | Functionalities                                              |
