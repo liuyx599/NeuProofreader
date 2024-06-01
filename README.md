@@ -2,14 +2,14 @@
 NeuProofreader: An Interactive Proofreading System with Suggesstive Prompts for Connectomics
 
 
-# Release status
+# Release Status
 the Client and Server: 
 BaiDuYun Link： [https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb](https://pan.baidu.com/s/1itgXNOML46tkrIk4DY02ug?pwd=divb)   Code：divb
 
 The client and server are packaged executables, unzip them and run `.exe` directly.
 The server side is the proofreading status server, whose repository is: the status saving module [https://github.com/liuyx599/NeuroglancerJsonServer-packup](https://github.com/liuyx599/NeuroglancerJsonServer-packup)
 
-Key shortcuts for NeuProofreader:
+# Key Shortcuts 
 | Keyboard shortcuts | Functionalities                                              |
 |--------------------|-------------------------------------------------------------|
 | Tab                | Display algorithmic prompt messages.                        |
